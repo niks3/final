@@ -1,0 +1,509 @@
+/*2560px*/
+
+@media all and (max-width: 2560px){
+
+
+    
+    }
+
+
+
+/*2140px*/
+
+@media all and (max-width: 2140px){
+
+}
+/*1920*/
+@media all and (max-width: 1921px){
+.guracdugmeta {
+    top: 78%;
+    left: 22%;
+}
+.strelal {
+    left: 46.5%;
+  }
+ 
+.fotka {
+    margin-top: 42px;
+    margin-left: 82px;
+    width: 68%;
+}
+
+.fotka2 {
+    margin-top: 22px;
+    margin-left: 33px;
+    width: 53%;
+}
+
+.tekst1 {
+    margin: 20% auto;
+    width: 71%;
+}
+.render {
+    margin-top: 1%;
+}
+#sidebar1 {
+    float: right;
+    width: 492px;
+    margin-left: -400px;
+
+    background-image: url("img/traka1.jpg");
+    padding-top: 20%;
+    padding-bottom: 40%;
+    background-repeat: no-repeat;
+    /background-size: inherit;
+}
+
+.marginasaci {
+    margin-top: 7%;
+}
+.marginadetalja {
+    margin-top: 8%;
+    margin-left: 25px;
+}
+
+.bluprint {
+    margin-top: 56%;
+    margin-left: 10%;
+    margin-right: 10px;
+}
+.test1s {
+    margin: 5% auto;
+}
+
+}
+
+/*1440px*/
+@media all and (max-width: 1441px){
+.Playfairlima2 {
+    width: 92%;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+    margin: auto;
+}
+.lotolima {
+    width: 92%;
+    font-family: 'Lato', sans-serif;
+    font-size: 21px;
+   
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.4px;
+    margin: auto;
+}
+.fotka{
+width:78%;
+
+}
+.tekst1 {
+    margin: 20% auto;
+    width: 96%;
+}
+#dugme {
+    top: 10%;
+    left: 43.7%;
+}.strelal {
+    left: 46%;
+    
+}
+#sidebar1 {
+    float: right;
+    width: 346px;
+    /* margin-left: -400px; */
+    background-image: url("img/traka1.jpg");
+    padding-top: 24%;
+    padding-bottom: 40%;
+    background-repeat: no-repeat;
+}
+}
+
+
+
+/*1366px*/
+@media all and (max-width: 1366px){
+
+}
+
+
+
+/*1280px*/
+@media all and (max-width: 1280px){
+
+.guracdugmeta {
+    top: 83%;
+    left: 21.8%;
+}
+
+.test1 {
+    margin: 6% auto;
+}
+#slider {
+  
+    height: 540px!important;
+}
+.bluprint {
+    margin-top: 43%;
+    margin-left: -52%;
+    margin-right: 10px;
+}
+.marginadetalja {
+    margin-top: 2%;
+    margin-left: 25px;
+}
+
+.guracdugmeta {
+    margin-top: -63px;
+}
+}
+
+/*1199px*/
+@media all and (max-width: 1199px){
+.cd-nav .cd-primary-nav li {
+    margin: 1em 0;
+}
+
+}
+
+/*1025*/
+@media all and (max-width: 1025px) {
+
+
+
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    margin-top: 48%!important;
+    margin: 0;
+}
+
+}
+
+/*1024*/
+@media all and (max-width: 1024px) {
+
+
+#sidebar1 {
+    float: right;
+    width: 260px;
+    /* margin-left: -400px; */
+    background-image: url("img/traka1.jpg");
+    padding-top: 24%;
+    padding-bottom: 51%;
+    background-repeat: no-repeat;
+	
+}
+#sidebar {
+    
+    margin-left: 0%;
+}
+.naslovVer {
+ 
+    margin-top: 0%;
+    font-family: Lato;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48.56px;
+    letter-spacing: 3.6px;
+    color: #222D40;
+    color: rgb(34, 45, 64);
+}
+.strelad {
+    left: 53%;
+  
+}
+
+.marginateks1 {
+    margin-left: 43%;
+}
+.marginateks2 {
+    margin-left: 5%;
+}
+.marginateks3 {
+    margin-left: 5%;
+}
+.marginateks4 {
+    margin-left: 5%;
+}
+.plocicatext {
+    font-family: Lato;
+    font-size: 17px;
+    line-height: 31px;
+    letter-spacing: 0.43px;
+    margin-top: 3%;
+}
+
+.naslovkartice {
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-size: 34px;
+    
+    font-weight: 900;
+    letter-spacing: 3px;
+    margin-top: 6.5%;
+}
+.margina30 {
+    margin-left: 27%;
+}
+.cd-projects-container .single-project {
+
+ 
+    background-repeat:inherit; 
+    background-size: inherit; 
+    background-position: 45%;
+}
+.test1s {
+    margin: 5% auto;
+}
+.Playfairlima1 {
+    width: 150%;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+}
+.bluprint {
+    margin-top: 55%;
+    margin-left: -83%;
+    margin-right: 10px;
+}
+#slider {
+    
+    margin: 15px auto!important;
+    
+}
+.playfairita2 {
+    width: 100%;
+	
+}
+.test1s {
+    margin: 8% auto;
+}
+
+
+}
+@media all and (max-width: 1000px) {
+.budva {
+    position: absolute;
+    top: -117px;
+    width: 100%;
+    height: 190px;
+    background-color: #243040;
+    z-index: 3;
+	display:block;
+	opacity: 0.9;
+}
+
+.adresa {
+    margin-top: 20%;
+    margin-left: 0%;
+}
+
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0%!important;
+    margin: 0;}
+.naslovVer {
+    margin-top: 0%;
+    font-family: Lato;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48.56px;
+    letter-spacing: 3.6px;
+    color: #222D40;
+    color: rgb(34, 45, 64);
+}
+
+}
+
+/*768px*/
+
+@media all and (max-width: 768px) {
+	.guracdugmeta {
+    top: 83%;
+    left: 19.8%;
+}
+	.logo {
+ 
+    top: 2%;
+   
+}
+
+.cd-nav-trigger {
+
+    top: 10px;
+   
+}
+	.medijaText1{
+    margin: 10% auto 0% auto;
+
+}
+.medijaText2{
+margin: 9% auto 15% auto;
+}
+
+#dugme {
+    top: 10%;
+    left: 39.7%;
+}
+.strelal {
+    left: 43%;
+}
+.naslovVer {
+    margin-top: 7%;
+   
+}
+
+#sidebar {
+   
+    padding-top: 38%;
+   
+}
+.bluprint {
+    margin-top: 8%;
+    margin-left: 0%;
+    margin-right: 10px;
+}
+.marginadetalja {
+    margin-top: 2%;
+    margin-left: 25%;
+    /* margin: auto; */
+}
+.naslovkartice {
+    margin-top: 16.5%;
+}
+    }
+ 
+ /*600px*/
+
+@media all and (max-width: 600px) {
+ 
+.medijaText1 {
+    margin: 0% auto 0% auto;
+}
+
+.medijaText2 {
+    margin: 0% auto 0% auto;
+}
+.naslovVer {
+    margin-top: 2%;
+}
+ /*OVU SREDITI 600px*/
+.guracdugmeta {
+    top: 83%;
+    left: 15.8%;
+}
+#sidebar {
+   
+    width: 335px;
+  
+}
+.marginateks1 {
+    margin-left: 10%;
+}
+
+.margina30 {
+    margin-left: 14%;
+}
+.marginadetalja {
+    margin-top: 2%;
+    margin-left: 6%;
+    /* margin: auto; */
+}
+.strelal {
+    left: 40%;
+}
+
+}
+
+
+
+/*680px*/
+
+@media all and (max-width: 680px) {
+
+
+}
+/*440*/
+
+@media all and (max-width: 480px) {
+.kasper1{
+display:none;
+}
+.guracdugmeta {
+    top: 85%;
+    left: 14.8%;
+}
+.kika{
+    height: 755px!important;
+  
+}
+.naslovkartice {
+    margin-top: 8.5%;
+}
+
+}
+
+/*375*/
+@media all and (max-width: 375px) {
+.kika {
+    height: 860px!important;
+}
+.strelal {
+    left: 36%;
+}
+.guracdugmeta {
+    top: 85%;
+    left: 11.8%;
+}
+.marginadetalja {
+    margin-top: 0%;
+    margin-left: 3%;
+    width: 230px;
+   
+}
+
+  }
+ 
+ 
+ /*414*/
+@media all and (max-width: 414px) {
+
+ 
+}
+
+
+/*375*/
+@media all and (max-width: 375px) {
+
+}
+
+
+
+
+/*360*/
+@media all and (max-width: 320px) {
+
+
+}
+
+@media all and (max-width: 320px) {
+
+
+}

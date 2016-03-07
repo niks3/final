@@ -1,0 +1,865 @@
+/*2560px*/
+#drugi{
+
+
+background-image: url("imgs/workshop.jpg");
+ background-size: cover;
+	
+	
+	}
+@media all and (max-width: 2560px){
+.gurac2 {
+    margin-top: 14%;
+}
+.strelad {
+    left: 50%;
+    }
+    
+    .strelal {
+    left: 48%;
+    }
+    
+    .div2 {
+    width: 280px;
+    }
+     .div1 {
+        margin-top: 43%;
+}
+
+.plocatext {
+    width: 700px;
+    margin-left: 5%;
+    margin-top: 4%;
+}
+    
+    }
+
+
+
+/*2140px*/
+
+@media all and (max-width: 2140px){
+.div2 {
+    width: 177px;
+}
+.nevidljivaLinija{
+display:none;
+}
+.gurac1{
+    margin-top: 5%;
+}
+.bb-custom-wrapper {
+    width: 420px;
+    position: relative;
+    margin: 0px 10% 40px!important;
+    text-align: center;
+}
+	
+	.pocrni{
+
+color:#000;   
+margin-left: 80px;
+ width: 70%;
+}
+.braonmamuti{
+font-size:22px;
+color:#c6986b;
+margin-left: 80px;
+  margin-top: 0%;
+}
+}
+/*1920*/
+@media all and (max-width: 1921px){
+
+.cd-nav .cd-primary-nav li {
+    margin: 2em 0;
+}
+.strelal {
+    left: 47.5%;
+}
+
+.ploca {
+    height: 56%;
+}
+.plocatext {
+    width: 657px;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.div1 {
+    float: left;
+    width: 210px;
+    margin-left: 10px;
+    margin-top: 40%;
+}
+.div2 {
+    width: 136px;
+}
+}
+
+/*1440px*/
+@media all and (max-width: 1441px){
+
+.plocatext {
+    width: 573px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.strelal {
+    left: 46.5%;
+}
+
+.test1 {
+    margin: 6% auto;
+}
+.dummy{
+    width: 333px;
+}
+
+.textdesno {
+     width: 85%;
+    }
+
+.plocicatext {
+ line-height: 28px;
+}
+
+.uliniju {
+    margin: auto;
+    width: 60%;
+}
+
+.div2 {
+    margin-top: 38%;
+    float: left;
+    width: 174px;
+}
+
+.div1 {
+    float: left;
+    width: 210px;
+    margin-left: 25px;
+    margin-top: 48%;
+}
+
+.braonmamuti {
+    margin-left: 10px;
+}
+	.pocrni{
+margin-left: 10px;
+}
+}
+
+
+
+/*1366px*/
+@media all and (max-width: 1366px){
+
+.ploca {
+    height: 42%;
+}
+
+.pocrni {
+    width: 95%;
+}
+.plocicatext {
+    font-size: 16px;
+    line-height: 25px;
+        margin-bottom: 30px;
+}
+
+.loto {
+    font-size: 30px;
+}
+
+.Playfair {
+   font-size: 30px;
+}
+
+.braonmamuti {
+    font-size: 22px;
+}
+}
+
+
+/*1280px*/
+@media all and (max-width: 1280px){
+
+.ploca {
+    height: 55%;
+}
+
+.kutijaJebeno{
+width:535px;
+}
+.bb-bookblock {
+    width: 535px!important;
+	height:347px!important;
+	}
+	.bb-custom-wrapper {
+    width: 268px!important;
+       margin: 0px 25% 40px!important;
+}
+.gurac1 {
+    margin-top: 10%;
+}
+.dummy {
+    width: 285px;
+}
+.textdesno {
+    width: 97%;
+}
+.guractxt {
+    margin-top: 0%;
+}
+.textdesno {
+ 
+    margin-left: 8%;
+}
+
+.div2 {
+    margin-top: 38%;
+    float: left;
+    width: 117px;
+}
+.div1 {
+    float: left;
+    width: 199px;
+    margin-left: 19px;
+    margin-top: 48%;
+}
+.pocrni {
+    
+    width: 100%;
+}
+
+.plocatext {
+    width: 556px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+}
+
+/*1199px*/
+@media all and (max-width: 1199px){
+.plocatext {
+    width: 493px;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div2 {
+    margin-top: 38%;
+    float: left;
+    width: 100px;
+}
+
+.div1 {
+  
+    margin-left: 11px;
+    
+}
+
+}
+
+/*1025*/
+@media all and (max-width: 1025px) {
+.gurac2 {
+    margin-top: 24%;
+}
+
+.strelal {
+    left: 45.5%;
+}
+
+.belaplocahorizontalna {
+    background-position: 48%;
+}
+
+.plocicatext {
+    font-size: 15px;
+    }
+
+.ploca {
+    height: 53%;
+}
+
+.plocatext {
+    width: 448px;
+    margin-left: 3%;
+    margin-top: 3%;
+    }
+
+
+.marginnav{
+	margin-top:6%;
+	}
+
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 48%!important;
+    margin: 0;
+}
+.cd-nav .cd-primary-nav li {
+    margin: 1em 0;
+}
+.godine {
+    width: 61%;
+    
+}
+.cenbu {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bb-custom-wrapper {
+    width: 268px!important;
+    margin: 0px 23% 40px!important;
+}
+.dummy {
+    width: 235px;
+}
+
+.div1 {
+    float: left;
+    width: 190px;
+    margin-left: 3px;
+    margin-top: 47%;
+}
+.div2 {
+    margin-top: 45%;
+    float: left;
+    width: 85px;
+}
+}
+
+/*1000*/
+
+@media all and (max-width: 1000px) {
+.godine {
+   display:none;
+}
+
+.nevidljivaLinija {
+    display: block;
+    width: 3px;
+    margin: 21% auto 2% auto;
+}
+.budva {
+    position: absolute;
+    top: -117px;
+    width: 100%;
+    height: 190px;
+    background-color: #243040;
+    z-index: 3;
+	display:block;
+	opacity: 0.9;
+}
+
+.adresa {
+    margin-top: 20%;
+    margin-left: 0%;
+}
+
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0%!important;
+    margin: 0;}
+.crta {
+   display:none;
+}
+
+.strelal {
+    left: 44.5%;
+}
+.gurac1 {
+    margin-top: 30%;
+}
+.bb-custom-wrapper {
+    
+    margin: 0px 12% 40px!important;
+}
+.cd-nav-trigger {
+
+    left: 88%;
+    top: 36px;
+	
+}
+.test1 {
+    margin: 16% auto;
+}
+.leviraj {
+    text-align: center;
+}
+.textdesno {
+    width: 60%;
+	  margin-left: 20%;
+}
+.gurac2 {
+    margin-top: 25%;
+}
+.guractxt {
+    margin-top: 3%;
+}
+body {
+    
+    background: #c6986b!important;
+}
+.braonmamuti {
+    width: 100%;
+    margin: auto;
+}
+.pocrni {
+    width: 50%;
+    margin: auto;
+}
+.belaplocahorizontalna {
+   
+    background-position: 51%;
+}
+.ploca {
+    height: 530px;
+}
+.plocaveca {
+    height: 400px;
+}
+.div2 {
+    margin-top: 25%;
+    float: left;
+    width: 190px;
+}
+.div1 {
+    float: left;
+    width: 190px;
+    margin-left: 3px;
+    margin-top: 34%;
+}
+.plocatext {
+    width: 460px;
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+#section5 {
+    background-color: #c6986b!important;
+	background-image: url("");
+   
+	}
+	.logo {
+    position: fixed;
+    top: 2%;
+    left: 4%;
+    height: 40px;
+    z-index: 70;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.cd-nav-trigger {
+    left: 88%;
+    top: 1%;
+}
+
+}
+@media all and (max-width: 990px) {
+.dummy {
+    width: 235px;
+    margin: 33px auto 10px;
+}
+
+.evo1 {
+    width: 270px;
+    /* margin-top: 10%; */
+    margin: auto;
+}
+    }
+/*768px*/
+
+@media all and (max-width: 768px) {
+.nevidljivaLinija {
+    display: block;
+    width: 3px;
+    margin: 34% auto 2% auto;
+}
+.pocrni {
+    width: 56%;
+    }
+    
+      .belaplocahorizontalna {
+	  
+    background-image: url("imgs/rolex2.jpg");
+    background-position: 92%;
+		
+		}
+       
+        .belinaslov {
+    margin-top: 47px;
+    margin-bottom: 16px;
+}
+.evo1 {
+    width: 270px;
+    /* margin-top: 10%; */
+    margin: auto;
+}
+    }
+ 
+ /*600px*/
+
+@media all and (max-width: 600px) {
+ 
+
+
+ /*OVU SREDITI 600px*/
+
+
+
+
+}
+
+
+
+/*680px*/
+
+@media all and (max-width: 680px) {
+.dummy{
+display:none;
+}
+.evo1 {
+    width: 270px;
+    /* margin-top: 10%; */
+    margin: -12% auto 10px auto;
+}
+.div2 {
+    margin-top: 25%;
+    float: left;
+    width: 140px;
+}
+.djukci {
+    height: 80%;
+    background-image: url("imgs/djukele.jpg");
+    background-size: cover;
+}
+.godine {
+   display:none;
+}
+
+.nevidljivaLinija {
+    display: block;
+    width: 3px;
+    margin: 21% auto 2% auto;
+}
+.gurac32 {
+    margin-top: 7%;
+}
+.strelal {
+    left: 42.5%;
+}
+#section1 {
+height:600px!important;
+}
+.ploca {
+    height: 544px;
+}
+
+}
+@media all and (max-width: 570px) {
+.div1 {
+    float: left;
+    width: 188px;
+    margin-left: 3px;
+    margin-top: 34%;
+}
+.div2 {
+    margin-top: 25%;
+    float: left;
+    width: 102px;
+}
+.plocatext {
+    width: 400px;
+    margin-left: 11%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+.logo {
+   
+    top: 5%;
+   
+}
+.logo {
+    top: 20px;
+}
+}
+/*440*/
+
+@media all and (max-width: 480px) {
+.kasper1{
+display:none;
+
+}
+.djukci {
+    height: 100%;
+    background-image: url("imgs/djukele.jpg");
+    background-size: cover;
+}
+
+.Playfair {
+font-family: 'Playfair Display', serif;
+font-style: italic;
+line-height: 1.2;
+color: #c6986b;
+font-size: 27px;
+}
+
+.braonmamuti {
+   
+    margin: auto;
+    padding-top: 30px;
+    width: 90%;
+}
+
+.belinaslov{
+    margin-top: 54px;
+        margin-bottom: 22px;
+
+    }
+
+.plocicatekst{
+margin-bottom: 110px;
+}
+
+.plocatext {
+    width: 334px;
+    margin-left: 12%;
+    margin-top: 3%;
+    margin-bottom: 22%;
+}
+
+.popin{
+width:98%;
+    margin-top: 51px;
+} 
+
+.godine {
+   display:none;
+}
+.nevidljivaLinija {
+    display: block;
+    width: 3px;
+    margin: 40% auto 8% auto;
+}
+
+.test1 {
+    margin: 25% auto;
+}
+.gurac32 {
+    margin-top: 16%;
+}
+
+.cd-nav-trigger {
+    left: 79%;
+    top: 18px;
+}
+.strelad {
+    left: 54%;
+}
+.strelal {
+    left: 35.5%;
+}
+.kutijaJebeno {
+    width: 355px;
+}
+.bb-bookblock {
+    width: 355px!important;
+    height: 230px!important;
+}
+.bb-custom-wrapper {
+    margin: 0px -3% 40px!important;
+}
+.bb-custom-wrapper nav {
+    margin: 1em 17% 0!important;
+   }
+.dummy {
+    width: 120px;
+}
+.textdesno {
+    width: 90%;
+    margin-left: 4%;
+}
+.gurac2 {
+    margin-top: 20%;
+}
+.pocrni {
+    width: 90%;
+    margin: auto;
+}
+
+.div2 {
+    margin-top: 25%;
+    float: left;
+    width: 250px;
+}
+.div1 {
+    float: left;
+    width: 210px;
+    margin-left: 18px;
+    margin-top: 6%;
+}
+.belaplocahorizontalna {
+    background-position: 38%;
+}
+}
+
+/*375*/
+@media all and (max-width: 375px) {
+.plocatext {
+    width: 340px;
+    margin-left: 7%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+.evo1 {
+    width: 270px;
+    /* margin-top: 10%; */
+    margin: 7% auto 10px auto;
+}
+.kutijaJebeno {
+    width: 300px;
+}
+.bb-bookblock {
+        width: 300px!important;
+    height: 193px!important;
+}
+
+.bb-custom-wrapper {
+    margin: 0px -3% 40px!important;
+}
+
+.bb-custom-wrapper {
+    margin: 0px -9% 40px!important;
+}
+.bb-custom-wrapper nav {
+    margin: 1.5em 8% 0!important;
+}
+.gurac1 {
+    margin-top: 23%;
+}
+.popin {
+    width: 92%;
+    margin: auto;
+    margin-top: 18%;
+}
+
+.ploca {
+    height: 620px;
+}
+.div1 {
+    float: left;
+    width: 210px;
+    margin-left: 0px;
+    margin-top: 6%;
+}
+.div2 {
+    margin-top: 42%;
+    float: left;
+    width: 200px;
+}
+  }
+ 
+ 
+ /*414*/
+@media all and (max-width: 414px) {
+
+ .popin {
+    width: 98%;
+    margin-top: 36px;
+}
+
+.nevidljivaLinija {
+    display: block;
+    width: 3px;
+        margin: 30% auto -2% auto;
+}
+
+
+.strelal {
+    left: 38.5%;
+}
+
+.strelad {
+    left: 50%;
+}
+}
+
+/*375*/
+@media all and (max-width: 375px) {
+.gurac32 {
+    margin-top: 22%;
+}
+.nevidljivaLinija {
+    display: block;
+    width: 3px;
+    margin: 41% auto -2% auto;
+}
+.logo {
+    position: fixed;
+    top: 4%;
+    left: 4%;
+    height: 40px;
+    z-index: 70;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+}
+
+
+
+/*360*/
+@media all and (max-width: 320px) {
+
+.braonmamuti {
+    width:100% !important;
+    }
+
+.cenbu {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bb-custom-wrapper {
+    margin: 0px -1% 40px!important;
+}
+.ploca {
+    height: 507px;
+}
+.div2 {
+    margin-top: 45%;
+    float: left;
+    width: 200px;
+}
+.plocatext {
+    width: 360px;
+    margin-left: 4%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+}
+
+@media all and (max-width: 320px) {
+.plocatext {
+    width: 319px;
+    margin-left: 4%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+.ploca {
+    height: 614px;
+}
+
+}

@@ -1,0 +1,384 @@
+/*2560px*/
+@media all and (max-width: 2561px){
+
+.razmakplocica {
+    padding: 151px 20px 180px 90px;
+    }
+
+.razmakplocica1 {
+padding: 135px 10px 187px 70px;
+    }
+
+.razmakplocica2 {
+padding: 135px 10px 187px 70px;
+}
+
+.ak {
+    width: 67%;
+    margin-right: 200px;
+}
+
+    }
+    
+
+/*2140px*/
+
+@media all and (max-width: 2140px){
+.ak {
+    width: 78%;
+    margin-right: 200px;
+}
+
+
+
+.marginaploce1 {
+    margin-top: 50%;
+}
+
+
+.marginaploce2{
+    margin-top: 39%;
+}
+
+.marginaploce3 {
+    margin-top: 39%;
+}
+
+.cd-nav .cd-primary-nav li {
+    margin: 2em 0;
+}
+
+}
+@media all and (max-width: 1920px){
+
+
+.cd-nav .cd-primary-nav li {
+    margin: 2em 0;
+}
+
+}
+/*1440px*/
+@media all and (max-width: 1440px){
+
+.plocatext {
+    width: 573px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.razmakplocica1 {
+    padding: 60px 10px 180px 43px;
+}
+
+.razmakplocica2 {
+    padding: 60px 10px 180px 43px;
+}
+
+
+}
+
+
+
+/*1366px*/
+@media all and (max-width: 1367px){
+
+.razmakplocica {
+    padding: 101px 20px 180px 59px;
+}
+
+
+    
+.gurac {
+    margin-top: 7%;
+}
+
+.ak {
+    width: 110%;
+    margin-right: 200px;
+}
+
+.razmakplocica1 {
+    padding: 1px 21px 183px 47px;
+}
+
+.razmakplocica2 {
+    padding: 1px 21px 183px 47px;
+}
+
+
+}
+
+/*1280px*/
+@media all and (max-width: 1281px){
+
+.razmakplocica1 {
+    padding: 100px 1px 183px 46px;
+}
+
+.razmakplocica2 {
+    padding: 100px 1px 183px 46px;
+}
+
+
+    }
+
+/*1199px*/
+@media all and (max-width: 1280px){
+    
+
+
+.cenbu {
+    margin-left: 4%;
+    width: 75%;
+}
+
+
+.marginaploce2 {
+    margin-top: 21%;
+}
+.marginaploce3 {
+    margin-top: 21%;
+}
+.marginaploce1 {
+    margin-top: 50%;
+}
+}
+
+/*1025*/
+@media all and (max-width: 1025px) {
+
+
+
+.loto {
+    font-size: 29px;
+    line-height: 38px;
+}
+
+.Playfair  {
+font-size: 29px;
+}
+
+.razmakplocica1 {
+    padding: 109px 90px 180px 46px;
+}
+
+.razmakplocica2 {
+    padding: 109px 90px 180px 46px;
+}
+
+.plocicatext {
+font-size: 15px;
+    line-height: 26px;
+}
+
+
+
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 48%!important;
+    margin: 0;
+}
+
+.cd-nav .cd-primary-nav li {
+    margin: 1em 0;
+}
+.odvrhadodna {
+    height: 800px;
+}
+
+.cenbu {
+    margin-left: 4%;
+    width: 100%;
+}
+.marginaploce2 {
+    margin-top: 15%;
+}
+.marginaploce3 {
+    margin-top: 15%;
+}
+
+.ak {
+    width: 100%;
+    margin-right: 116px;
+}
+}
+
+/*1000*/
+
+@media all and (max-width: 1000px) {
+.gurac {
+    margin-top: 3%;
+}
+
+}
+
+/*768*/
+@media all and (max-width:1000px)   {
+.logo {
+    position: fixed;
+    top: 2%;
+    left: 4%;
+    height: 40px;
+    z-index: 70;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.gurac {
+    margin-top: 15%;
+}
+.budva {
+    position: absolute;
+    top: -117px;
+    width: 100%;
+    height: 190px;
+    background-color: #243040;
+    z-index: 3;
+	display:block;
+	opacity: 0.9;
+}
+
+.leviraj {
+    text-align: center;
+}
+
+.evo1 {
+    margin-left: -36px;
+}
+
+.marginaploce1 {
+    margin-top: 22%;
+}
+.odvrhadodna {
+    height: 500px;
+}
+
+.cenbu {
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 93%;
+}
+.marginaploce2 {
+    margin-top: 0%;
+}
+.marginaploce3 {
+    margin-top: 0%;
+}
+
+.ak {
+    width: 79%;
+    margin-right: 0px;
+}
+.ak {
+    width: 79%;
+    margin-right: 0px;
+    margin: auto;
+}
+
+.cd-nav-trigger {
+    left: 84%;
+    top: 19px;
+}
+	
+	.adresa {
+    margin-top: 23%;
+    margin-left: 0%;
+	
+}
+
+.cd-slider-wrapper {
+    
+    height: 120vh!important;
+ 
+}
+
+
+}
+
+/*440*/
+@media all and (max-width: 480px) {
+.cd-slider-wrapper {
+    
+    height: 100vh!important;
+ 
+}
+
+.sirinadrveta {
+    width: 270px;
+}
+.cd-slider {
+    padding-top: 8vh !important;
+    }
+    
+.gurac {
+    margin-top: 10%;
+}
+
+
+
+.marginaploce2 {
+    margin-top: -20%;
+}
+.marginaploce3 {
+    margin-top: -20%;
+}
+
+
+.cd-nav-trigger {
+    left: 84%;
+    top: 12px;
+    top: 15px;
+}
+
+.kasper1 {
+display:none;
+}
+
+
+
+}
+/*380*/
+@media all and (max-width: 385px) {
+
+.loto {
+    padding-left: 3%;
+}
+
+
+
+.ak {
+    width: 90%;
+    }
+
+}
+
+
+/*360*/
+@media all and (max-width: 360px) {
+.odvrhadodna {
+    height: 530px;
+}
+
+
+
+.cd-projects-wrapper.projects-visible {
+    margin-top: -6% !important;
+}
+
+.cd-nav-trigger {
+    left: 76%;
+    top: 14px;
+    top: 15px;
+}
+.razmakplocica1 {
+    padding: 78px 19% 180px 44px;
+}
+.razmakplocica2 {
+    padding: 78px 19% 180px 44px;
+}
+
+}
+

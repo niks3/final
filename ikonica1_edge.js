@@ -1,0 +1,13 @@
+
+(function(compId){var _=null,y=true,n=false,x1='6.0.0',e9='${Rectangle}',x3='6.0.0.400',x2='5.0.0',x4='rgba(192,192,192,0)',e8='${RectangleCopy8}',x6='rgba(255,255,255,1)',x5='solid',m='rect',e10='${RectangleCopy7}',e7='${RectangleCopy6}',bg='background-color',i='none';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{id:'Group',t:'group',r:['2px','6px','54px','54px','auto','auto'],c:[{id:'Rectangle',t:m,r:['4px','0px','21px','21px','auto','auto'],br:["4px","4px","4px","4px 4px"],f:[x4],s:[2,"rgba(198,152,106,1.00)",x5]},{id:'RectangleCopy6',t:m,r:['33px','29px','21px','21px','auto','auto'],br:["4px","4px","4px","4px 4px"],f:[x4],s:[2,"rgba(198,152,106,1.00)",x5]},{id:'RectangleCopy7',t:m,r:['4px','29px','21px','21px','auto','auto'],br:["4px","4px","4px","4px 4px"],f:[x4],s:[2,"rgba(198,152,106,1.00)",x5]},{id:'RectangleCopy8',t:m,r:['33px','0px','21px','21px','auto','auto'],br:["4px","4px","4px","4px 4px"],f:[x4],s:[2,"rgba(198,152,106,1.00)",x5]},{id:'Rectangle2',t:m,r:['1px','-3px','61px','59px','auto','auto'],f:[x4],s:[2,"rgb(198, 152, 106)",i]}]}],style:{'${Stage}':{isStage:true,r:['null','null','65px','65px','auto','auto'],overflow:'hidden',f:[x6]}}},tt:{d:564,a:y,data:[["eid19",bg,80,365,"easeInQuart",e7,'rgba(192,192,192,0)','rgba(198,152,106,1.00)'],["eid21",bg,199,365,"easeInQuart",e8,'rgba(192,192,192,0)','rgba(198,152,106,1.00)'],["eid4",bg,0,365,"easeInQuart",e9,'rgba(192,192,192,0)','rgba(198,152,106,1.00)'],["eid20",bg,135,365,"easeInQuart",e10,'rgba(192,192,192,0)','rgba(198,152,106,1.00)']]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-44230301");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",0,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${Group}","mouseover",function(sym,e){sym.play();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${Group}","mouseout",function(sym,e){sym.playReverse();});
+//Edge binding end
+})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-44230301");
