@@ -19,6 +19,9 @@ address,caption,cite,code,dfn,em,strong,th,var {
     font-weight: normal;
     font-style: normal;
 }
+
+/*TEST ZA GIT*/
+
 strong{
 	font-weight: bold;
 }
