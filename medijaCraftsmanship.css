@@ -147,7 +147,9 @@ padding: 135px 10px 187px 70px;
 /*1025*/
 @media all and (max-width: 1025px) {
 
-
+#fp-nav {
+    display:none!important;
+}
 
 .loto {
     font-size: 29px;
