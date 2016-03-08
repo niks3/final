@@ -51,7 +51,7 @@ width:208px;
 .logo{
 
 position: fixed;
-    top: 4%;
+    top: 40px;
     left: 4%;
     height: 40px;
     z-index: 70;
@@ -604,9 +604,9 @@ margin-top:50px;
 
 }
 
-.ak{
-    width: 83%;
-    margin-right: 76px;
+
+.tekst {
+    margin-top: 100px;
 }
 
 

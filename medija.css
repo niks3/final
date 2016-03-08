@@ -106,8 +106,16 @@ margin: 46px 52px;
 }
 .belakocka {
     background-color: #fff;
-    padding-top: 8%;
+    padding-top: 0%;
     padding-bottom: 19%;
+}
+.braonkocka {
+    background-color: #c6986b;
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+  .tekst {
+    margin-top:0px;
 }
 }
 
@@ -118,7 +126,7 @@ margin: 46px 52px;
     margin-left: -50px !important;
     }
     
-    
+  
     
     }
 
@@ -163,6 +171,9 @@ margin: 46px 52px;
     left: 1%;
     top: 20%;
 }
+.tekst {
+    margin-top: 0px;
+}
 }
 
 
@@ -170,6 +181,9 @@ margin: 46px 52px;
 /*_______________________________________________1280_______________________________________________*/
 
 @media all and (max-width: 1280px){
+.tekst {
+    margin-top: 0px;
+}
 .god32 {
     width: 325px;
     margin-left: -30%;
@@ -483,7 +497,7 @@ display:none!important;
    }
 
  .logo {
-    top: 3%;
+    top: 20px;
     left: 4%;
 }
    
@@ -550,7 +564,7 @@ margin:auto;
     margin-top: 20%;
 }
 .logo {
-    top: 3%;
+    top: 20px;
     left: 4%;
 }
 
@@ -635,7 +649,7 @@ display:none!important;
 @media all and (max-width: 320px) {
 
 .logo {
-    top: 4%;
+    top: 20px;
     left: 4%;
 }
 
