@@ -2,6 +2,7 @@
 .column-right{ float: right; width: 33%; }
 .column-center{ display: inline-block; width: 33%; }/* This is a single-line comment */
 
+
 .budva {
     position: absolute;
     top: -117px;
@@ -321,28 +322,9 @@ width:90%;
     background-color: #ffffff; 
 }
 
-.strelal{
-left: 47.5%;
 
-    display: block;
-    height: 40px;
-    width: 40px;
-    overflow: hidden;
-    text-indent: 100%;
-    white-space: nowrap;
-    background: url(img/levo-01.svg) no-repeat center center;
-}
 
-.strelad{
-left: 50%;
-    display: block;
-    height: 40px;
-    width: 40px;
-    overflow: hidden;
-    text-indent: 100%;
-    white-space: nowrap;
-    background: url(img/desno-01.svg) no-repeat center center;
-}
+
 
 @media all and (max-width: 500px) {
 
@@ -829,3 +811,9 @@ margin-top: 5%;
 color: #C6986B;
 }
 
+.strelad {
+     display:none!important;
+}
+.strelal {
+    display:none!important;
+}
