@@ -758,7 +758,9 @@ width:110px;
    		object-fit: cover; /*cover video background */
    		z-index:3;
 	}
-		
+		#section2{
+display:none!important;
+}
 	
 		#section2 .layer{
 	position: absolute;
