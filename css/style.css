@@ -232,7 +232,7 @@ main p {
 }
 @media only screen and (min-width: 1170px) {
   .cd-nav-trigger {
-    top: 40px;
+    top: 20px;
   }
 }
 
