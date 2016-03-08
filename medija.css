@@ -602,7 +602,10 @@ display:none;
 
 
 @media all and (max-width: 440px) {
-
+.adresa {
+    margin-top: 35%;
+    margin-left: 0%;
+}
 .mobile{
 display:none;
 }
