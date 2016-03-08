@@ -3,6 +3,7 @@
 .column-center{ display: inline-block; width: 33%; }/* This is a single-line comment */
 
 
+
 .trikolon{
 	margin:auto;
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -792,4 +793,9 @@ height: 930px!important;
 .sirinadrveta{
 width:600px;
 
+}
+
+
+.fp-tooltip{
+display:none!important;
 }
