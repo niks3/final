@@ -145,7 +145,7 @@ padding: 135px 10px 187px 70px;
 }
 
 /*1025*/
-@media all and (max-width: 1025px) {
+@media all and (max-width: 1024px) {
 
 #fp-nav {
     display:none!important;
@@ -217,7 +217,9 @@ display:none;
 .gurac {
     margin-top: 3%;
 }
-
+.lasta {
+margin:auto;
+}
 }
 
 /*768*/
@@ -284,8 +286,8 @@ display:none;
 }
 
 .cd-nav-trigger {
-    left: 84%;
-    top: 20px;
+    left: 87%;
+    top: 11px;
 }
 	
 	.adresa {
@@ -313,7 +315,7 @@ display:none;
 
 .lotonav {
     font-family: 'Lato', sans-serif;
-    font-size: 25px;
+    font-size: 38px;
     color: #fff;
     font-weight: 900;
     margin-top: 0%!important;
@@ -334,6 +336,14 @@ display:none;
 }
 /*440*/
 @media all and (max-width: 480px) {
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0%!important;
+    margin: 0;
+}
 .cd-slider-wrapper {
     
     height: 100vh!important;
@@ -362,7 +372,7 @@ display:none;
 
 
 .cd-nav-trigger {
-    left: 84%;
+    left: 87%;
     top: 12px;
     top: 11px;
 }

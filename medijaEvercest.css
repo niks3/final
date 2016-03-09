@@ -296,6 +296,12 @@ width:78%;
 
 }
 @media all and (max-width: 1000px) {
+.mobile{
+display:none;
+}
+.adresa {
+    text-align: center;
+}
 .budva {
     position: absolute;
     top: -117px;
@@ -444,8 +450,17 @@ margin: 9% auto 15% auto;
 /*440*/
 
 @media all and (max-width: 480px) {
-.kasper1{
-display:none;
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0%!important;
+    margin: 0;
+}
+.adresa {
+    margin-top: 35%;
+    margin-left: 0%;
 }
 .guracdugmeta {
     top: 85%;
