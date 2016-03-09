@@ -36,11 +36,6 @@ finaltest
 
 	@media all and (max-width: 2880px) {
 	
-	.kutija1 {
-    margin-top: -30%!important;
-    margin-left: -50px !important;
-    width: 960px;
-}
 
 .braonkocka {
     padding-top: 11%;
@@ -50,6 +45,11 @@ finaltest
     padding-top: 11%;
     padding-bottom: 70%;
 }
+.centarvankocke {
+        padding-top: 25vh
+
+}
+
 
 }
 	
@@ -77,10 +77,6 @@ finaltest
     background-position: 0% 100%;
 }
 
-.centarvankocke {
-    padding-top: 34%;
-    padding-bottom: 13%;
-}
 #section2 .layer {
     position: absolute;
     z-index: 4;
@@ -99,11 +95,7 @@ margin: 46px 52px;
 .cd-nav .cd-primary-nav li {
     margin: 2em 0;
 }
-.kutija1 {
-    margin-top: -15%!important;
-    margin-left: 0px !important;
-    width: 660px;
-}
+
 .belakocka {
     background-color: #fff;
     padding-top: 0%;
@@ -119,26 +111,18 @@ margin: 46px 52px;
 }
 }
 
-@media all and (max-width: 1600px){
 
-.kutija1 {
-    margin-top: 4%!important;
-    margin-left: -50px !important;
-    }
-    
+
+
   
     
-    }
+    
 
 /*_______________________________________________1440_______________________________________________*/
 
 @media all and (max-width: 1440px){
 
-.kutija1 {
-    margin-top: -14%!important;
-    margin-left: -3%!important;
-    width: 545px;
-}
+
 
 .god32 {
     width: 325px;
@@ -196,11 +180,6 @@ margin: 46px 52px;
     top: 20%;
 }
 
-.kutija1 {
-    margin-top: -4%!important;
-    margin-left: 3%!important;
-    width: 515px;
-}
 
 .braonkocka {
     padding-top: 5%;
@@ -263,10 +242,6 @@ width: 173px;
     margin-top: 18%;
 }
 
-.kutija1 {
-   width: 368px;
-}
-}
 
 /*_______________________________________________1025_______________________________________________*/
 
