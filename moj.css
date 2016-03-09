@@ -315,13 +315,10 @@ width:90%;
 	 
 	 .test1{margin:20% auto;}
 }
-/* resenje za skrol!!!! 
+.fp-tooltip{
+display:none;
 
-#test1{
-overflow: auto!important;
-    overflow-x: hidden!important;
-	}*/
-	
+}
 	
 .ikona2{
 float:left;
