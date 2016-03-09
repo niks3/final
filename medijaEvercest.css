@@ -70,7 +70,14 @@
 .test1s {
     margin: 5% auto;
 }
-
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 33%!important;
+    margin: 0;
+}
 }
 
 /*1440px*/
@@ -189,7 +196,6 @@ width:78%;
 
 /*1024*/
 @media all and (max-width: 1024px) {
-
 
 #sidebar1 {
     float: right;

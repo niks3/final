@@ -34,6 +34,9 @@ margin-top: 33%;
 margin:0;
 
 }
+.fp-slidesNav.bottom ul{
+margin:0!important;
+}
 .trikolon{
 	margin:auto;
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
