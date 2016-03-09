@@ -6,7 +6,7 @@
 .trikolon{
 	margin:auto;
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox -webkit-overflow-scrolling: touch; */
+    -moz-column-count: 3; /* Firefox -webkit-oveerflow-scrolling: touch; */
     column-count: 3;
     width:800px;
 	font-size:16px;
