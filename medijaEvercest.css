@@ -298,7 +298,10 @@ width:78%;
 .test1s {
     margin: 8% auto;
 }
+.right{
+display:none!important;
 
+}
 
 }
 @media all and (max-width: 1000px) {
