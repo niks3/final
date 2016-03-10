@@ -302,6 +302,17 @@ width:78%;
 
 }
 @media all and (max-width: 1000px) {
+ .marginadetalja {
+    margin-top: 2%;
+    margin-left: 9%;
+    width: 60%;
+   
+}
+.bluprint {
+    margin-top: 0%;
+    margin-left: -4%;
+    margin-right: 10px;
+}
 .mobile{
 display:none;
 }
@@ -348,6 +359,7 @@ display:none;
 
 
 @media all and (max-width: 768px) {
+
 	.guracdugmeta {
     top: 83%;
     left: 19.8%;
@@ -361,7 +373,7 @@ display:none;
 .cd-nav-trigger {
 
     top: 10px;
-   
+       left: 87%;
 }
 	.medijaText1{
     margin: 10% auto 0% auto;
@@ -393,20 +405,21 @@ margin: 9% auto 15% auto;
     margin-left: 0%;
     margin-right: 10px;
 }
-.marginadetalja {
+ .marginadetalja {
     margin-top: 2%;
-    margin-left: 25%;
-    /* margin: auto; */
+    margin-left: 9%;
+    width: 60%;
+   
 }
 .naslovkartice {
-    margin-top: 16.5%;
+    margin-top: 10.5%;
 }
     }
  
  /*600px*/
 
 @media all and (max-width: 600px) {
- 
+
 .medijaText1 {
     margin: 0% auto 0% auto;
 }
@@ -447,15 +460,33 @@ margin: 9% auto 15% auto;
 
 
 
-/*680px*/
+/*580px*/
 
-@media all and (max-width: 680px) {
-
+@media all and (max-width: 580px) {
+.margina30 {
+    margin-left: 8%;
+}
+.Playfairlima1 {
+    width: 90%;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+}
 
 }
 /*440*/
 
 @media all and (max-width: 480px) {
+.cd-nav-trigger {
+    top: 8px;
+    left: 79%;
+}
 .lotonav {
     font-family: 'Lato', sans-serif;
     font-size: 25px;
@@ -491,30 +522,22 @@ margin: 9% auto 15% auto;
     left: 36%;
 }
 .guracdugmeta {
-    top: 85%;
-    left: 11.8%;
+    top: 93%;
+    left: 13.8%;
 }
 .marginadetalja {
-    margin-top: 0%;
-    margin-left: 3%;
-    width: 230px;
    
+    margin-left: 0%;
+    width: 230px;
+    margin: auto;
+    float: none;
 }
-
+.naslovkartice {
+    margin-top: 20.5%;
+}
   }
  
  
- /*414*/
-@media all and (max-width: 414px) {
-
- 
-}
-
-
-/*375*/
-@media all and (max-width: 375px) {
-
-}
 
 
 
@@ -522,7 +545,26 @@ margin: 9% auto 15% auto;
 /*360*/
 @media all and (max-width: 320px) {
 
+.kika {
+    height: 915px!important;
+}
 
+.guracdugmeta {
+    top: 93%;
+    left: 12.8%;
+}
+.naslovVer {
+    margin-top: 6%;
+}
+.fotka2 {
+    margin-top: 22px;
+     margin-left: 0px;
+    width: 100%;
+}
+.marginasaci {
+    margin-top: 0%;
+     margin-left: 0%; 
+}
 }
 
 @media all and (max-width: 320px) {
