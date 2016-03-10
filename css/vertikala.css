@@ -217,6 +217,7 @@ button {
   background-image: url("../imgs/split_screen2-01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+	    background-position: 48% 10%;
 }
 .cd-projects-container .single-project:nth-of-type(2) { /* srbin css */
   -webkit-transform: translateY(25%);
