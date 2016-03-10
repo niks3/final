@@ -587,6 +587,15 @@ margin: 9% auto 15% auto;
 }
 }
 @media all and (max-width: 670px) {
+#dugme2 {
+   
+    display: none;
+}
+.guracdugmeta {
+  
+    display: none;
+ 
+}
 .lotonav {
     font-family: 'Lato', sans-serif;
     font-size: 27px;
@@ -686,6 +695,15 @@ margin: 9% auto 15% auto;
 /*440*/
 
 @media all and (max-width: 480px) {
+.guracdugmeta {
+  
+    display: none;
+ 
+}
+#dugme2 {
+    left: 12%;
+    display: none;
+}
 .cd-nav-trigger {
     top: 8px;
     left: 79%;
