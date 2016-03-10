@@ -1,8 +1,29 @@
 /*2560px*/
 
-@media all and (max-width: 2560px){
+@media all and (max-width: 2500px){
 
+.margina30 {
 
+    margin-left: 31%;
+
+}
+
+.marginateks1{
+    margin-left: 54%;
+
+}
+
+.marginateks2{
+margin-left: 25%;
+
+}
+.marginateks3{
+   margin-left: 25%;
+
+}
+.marginateks4 {
+    margin-left: 25%;
+}
     
     }
 
@@ -17,7 +38,7 @@
 @media all and (max-width: 1921px){
 .guracdugmeta {
     top: 78%;
-    left: 22%;
+    left: 23%;
 }
 .strelal {
     left: 46.5%;
@@ -36,7 +57,7 @@
 }
 
 .tekst1 {
-    margin: 20% auto;
+    margin: 5% auto;
     width: 71%;
 }
 .render {
@@ -58,12 +79,12 @@
     margin-top: 7%;
 }
 .marginadetalja {
-    margin-top: 8%;
+    margin-top: 2%;
     margin-left: 25px;
 }
 
 .bluprint {
-    margin-top: 56%;
+    margin-top: 20%;
     margin-left: 10%;
     margin-right: 10px;
 }
@@ -82,6 +103,15 @@
 
 /*1440px*/
 @media all and (max-width: 1441px){
+.bluprint {
+    margin-top: 47%;
+    margin-left: 0%;
+    margin-right: 10px;
+}
+.guracdugmeta {
+    top: 81%;
+    left: 22.2%;
+}
 .Playfairlima2 {
     width: 92%;
     font-family: 'Lato', sans-serif;
@@ -111,7 +141,7 @@ width:78%;
 
 }
 .tekst1 {
-    margin: 20% auto;
+    margin: 1% auto;
     width: 96%;
 }
 #dugme {
@@ -145,10 +175,11 @@ width:78%;
 @media all and (max-width: 1280px){
 
 .guracdugmeta {
-    top: 83%;
+    top: 88%;
     left: 21.8%;
 }
-
+.naslovVer {
+    margin-top: 2%;}
 .test1 {
     margin: 6% auto;
 }
@@ -213,7 +244,7 @@ width:78%;
 }
 .naslovVer {
  
-    margin-top: 0%;
+    margin-top: 3%;
     font-family: Lato;
     font-weight: 800;
     font-size: 36px;
@@ -221,6 +252,11 @@ width:78%;
     letter-spacing: 3.6px;
     color: #222D40;
     color: rgb(34, 45, 64);
+}
+
+.guracdugmeta {
+    top: 88%;
+    left: 21%;
 }
 .strelad {
     left: 53%;
@@ -282,7 +318,7 @@ width:78%;
     letter-spacing: 0.4px;
 }
 .bluprint {
-    margin-top: 55%;
+    margin-top: 30%;
     margin-left: -83%;
     margin-right: 10px;
 }
@@ -367,10 +403,8 @@ display:none;
     top: 83%;
     left: 19.8%;
 }
-	.logo {
- 
-    top: 2%;
-   
+.logo {
+    top: 20px;
 }
 
 .cd-nav-trigger {
@@ -394,8 +428,7 @@ margin: 9% auto 15% auto;
     left: 43%;
 }
 .naslovVer {
-    margin-top: 7%;
-   
+    margin-top: -3%;
 }
 
 #sidebar {
@@ -420,7 +453,32 @@ margin: 9% auto 15% auto;
     }
  
  /*600px*/
-
+@media all and (max-width: 736px) {
+.kika{
+ height: 850px!important;
+ 
+ }
+ 
+ .guracdugmeta {
+    top: 92%;
+    left: 19.8%;
+}
+.naslovVer {
+    margin-top: 2%;
+}
+ .marginateks1 {
+    margin-left: 13%;
+}.marginateks2 {
+    margin-left: 13%;
+}.marginateks3 {
+    margin-left: 13%;
+}.marginateks4 {
+    margin-left: 13%;
+}
+.margina30 {
+    margin-left: 15%;
+}
+}
 @media all and (max-width: 600px) {
 
 .medijaText1 {
@@ -503,12 +561,16 @@ margin: 9% auto 15% auto;
     margin-left: 0%;
 }
 .guracdugmeta {
-    top: 85%;
-    left: 14.8%;
+    top: 92%;
+    left: 15%;
 }
-.kika{
-    height: 755px!important;
-  
+.fotka {
+    margin-top: 42px;
+    margin-left: 0px;
+    width: 100%;
+}
+.kika {
+    height: 850px!important;
 }
 .naslovkartice {
     margin-top: 8.5%;
@@ -547,7 +609,15 @@ margin: 9% auto 15% auto;
 
 /*360*/
 @media all and (max-width: 320px) {
-
+.marginateks1{
+    margin-left: 5%;
+}.marginateks2 {
+    margin-left: 5%;
+}.marginateks3 {
+    margin-left: 5%;
+}.marginateks4 {
+    margin-left: 5%;
+}
 .kika {
     height: 915px!important;
 }
