@@ -32,7 +32,10 @@ margin-left: 25%;
 /*2140px*/
 
 @media all and (max-width: 2140px){
-
+.cd-projects-container .single-project {   
+    background-size: cover;
+    background-position: 38% 0%;
+}
 }
 /*1920*/
 @media all and (max-width: 1921px){
@@ -100,9 +103,37 @@ margin-left: 25%;
     margin: 0;
 }
 }
-
+@media all and (max-width: 1550px){
+.Playfairlima1 {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 700;
+    margin: 0;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+}}
 /*1440px*/
 @media all and (max-width: 1441px){
+.Playfairlima1 {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 700;
+    margin: 0;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+}
+.test1s {
+    margin: 1% auto;
+}
+.marginasaci {
+    margin-top: 3%;
+}
 .bluprint {
     margin-top: 47%;
     margin-left: 0%;
@@ -160,6 +191,31 @@ width:78%;
     padding-bottom: 40%;
     background-repeat: no-repeat;
 }
+.fotka2 {
+    margin-top: 22px;
+    margin-left: 33px;
+    width: 45%;
+}
+.fotka {
+    width: 65%;
+}
+.margina30 {
+    margin-left: 32%;
+}
+.marginateks1{
+ 
+    margin-left: 57%;
+
+}
+.marginateks2 {
+    margin-left: 26%;
+}
+.marginateks3 {
+    margin-left: 26%;
+}
+.marginateks4 {
+    margin-left: 26%;
+}
 }
 
 
@@ -203,11 +259,19 @@ width:78%;
 }
 
 /*1199px*/
-@media all and (max-width: 1199px){
+@media all and (max-width: 1200px){
 .cd-nav .cd-primary-nav li {
     margin: 1em 0;
 }
-
+.cd-projects-container .single-project {
+    background-size: cover;
+    background-position: 33% 0%;
+}
+.marginadetalja {
+    margin-top: 2%;
+    margin-left: 25px;
+    width: 38%;
+}
 }
 
 /*1025*/
@@ -298,8 +362,7 @@ width:78%;
 .cd-projects-container .single-project {
 
  
-    background-repeat:inherit; 
-    background-size: inherit; 
+   background-size: cover;
     background-position: 45%;
 }
 .test1s {
@@ -341,6 +404,8 @@ display:none!important;
 
 }
 @media all and (max-width: 1000px) {
+
+
  .marginadetalja {
     margin-top: 2%;
     margin-left: 9%;
@@ -393,7 +458,14 @@ display:none;
 }
 
 }
+@media all and (max-width: 950px) {
 
+.cd-projects-container .single-project {
+
+ 
+   background-size: cover;
+    background-position: 35%;
+}}
 /*768px*/
 
 
