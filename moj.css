@@ -316,7 +316,7 @@ width:90%;
 	 .test1{margin:20% auto;}
 }
 .fp-tooltip{
-display:none;
+display:none!important;
 
 }
 	
