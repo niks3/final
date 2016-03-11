@@ -292,6 +292,27 @@ width:78%;
 /*1024*/
 @media all and (max-width: 1024px) {
 
+.marginadetalja {
+    margin-top: 2%;
+    margin-left: 25px;
+    width: 27%;
+}
+#slider {
+    max-width: 546px!important;
+    margin: 50px auto;
+    border: 15px solid rgba(255, 255, 255, 0.8);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border-radius: 4px;
+}
+#slider {
+    height: 435px!important;
+}
+.talas {
+    margin: 1% auto;
+    width: 130px;
+}
+
 #sidebar1 {
     float: right;
     width: 260px;
@@ -308,7 +329,7 @@ width:78%;
 }
 .naslovVer {
  
-    margin-top: 3%;
+    margin-top: 1%;
     font-family: Lato;
     font-weight: 800;
     font-size: 36px;
@@ -351,19 +372,16 @@ width:78%;
     text-transform: uppercase;
     font-family: 'Lato', sans-serif;
     font-size: 34px;
-    
     font-weight: 900;
     letter-spacing: 3px;
-    margin-top: 6.5%;
+    margin-top: 4.5%;
 }
 .margina30 {
     margin-left: 27%;
 }
 .cd-projects-container .single-project {
-
- 
-   background-size: cover;
-    background-position: 45%;
+    background-size: cover;
+    background-position: 58%;
 }
 .test1s {
     margin: 5% auto;
@@ -470,7 +488,23 @@ display:none;
 
 
 @media all and (max-width: 768px) {
+.separator126{
+margin-top:10%;
 
+}
+.cd-projects-container .single-project {
+    background-size: cover;
+    background-position: 38%;
+}
+.marginateks2 {
+    margin-left: 0%;
+}
+.marginateks3{
+    margin-left: 0%;
+}
+.marginateks4 {
+    margin-left: 0%;
+}
 	.guracdugmeta {
     top: 83%;
     left: 19.8%;
@@ -509,6 +543,7 @@ margin: 9% auto 15% auto;
    
 }
 .bluprint {
+    width: 50%;
     margin-top: 8%;
     margin-left: 0%;
     margin-right: 10px;
@@ -551,7 +586,51 @@ margin: 9% auto 15% auto;
     margin-left: 15%;
 }
 }
+@media all and (max-width: 670px) {
+#dugme2 {
+   
+    display: none;
+}
+.guracdugmeta {
+  
+    display: none;
+ 
+}
+.lotonav {
+    font-family: 'Lato', sans-serif;
+    font-size: 27px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 0%!important;
+    margin: 0;
+}
+.adresa {
+    margin-top: 15%;
+    margin-left: 0%;
+}
+.slikaukartici {
+    width: 40%;
+}
+.marginateks1 {
+    margin-left: 23%;
+}
+.margina30 {
+    margin-left: 25%;
+}
+.marginateks2 {
+    margin-left: 24%;
+}
+.marginateks3 {
+    margin-left: 24%;
+}
+
+.marginateks4 {
+    margin-left: 24%;
+}
+
+}
 @media all and (max-width: 600px) {
+
 
 .medijaText1 {
     margin: 0% auto 0% auto;
@@ -616,6 +695,15 @@ margin: 9% auto 15% auto;
 /*440*/
 
 @media all and (max-width: 480px) {
+.guracdugmeta {
+  
+    display: none;
+ 
+}
+#dugme2 {
+    left: 12%;
+    display: none;
+}
 .cd-nav-trigger {
     top: 8px;
     left: 79%;
@@ -647,7 +735,17 @@ margin: 9% auto 15% auto;
 .naslovkartice {
     margin-top: 8.5%;
 }
-
+.cd-projects-container .single-project {
+    background-size: cover;
+    background-position:80%;
+}
+.marginasaci {
+    margin-left: -7%;
+}
+#slider {
+    height: 268px!important;
+	    max-width: 329px!important;
+}
 }
 
 /*375*/
