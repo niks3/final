@@ -465,7 +465,7 @@ display:none;
     margin-top: 0%!important;
     margin: 0;}
 .naslovVer {
-    margin-top: 0%;
+    margin-top: 3%;
     font-family: Lato;
     font-weight: 800;
     font-size: 36px;
@@ -695,6 +695,15 @@ margin: 9% auto 15% auto;
 /*440*/
 
 @media all and (max-width: 480px) {
+.marginateks1 {
+    margin-left: 3%;
+}.marginateks2 {
+    margin-left: 3%;
+}.marginateks3 {
+    margin-left: 3%;
+}.marginateks4 {
+    margin-left: 3%;
+}
 .guracdugmeta {
   
     display: none;
