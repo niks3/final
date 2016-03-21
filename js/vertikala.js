@@ -23,7 +23,7 @@ jQuery(document).ready(function(event){
 		var selectedProject = $(this);
 		
 		if( projectsContainer.hasClass('nav-open') ) {
-			//close navigation
+			
 			triggerNav.add(projectsContainer).add(navigation).removeClass('nav-open');
 			
 		} else {
