@@ -14,16 +14,17 @@ html {
 body {
   font-size: 1.6rem;
   font-family: sans-serif;
-  color: #2978A0;
+ 
   background-color: #253031;
 }
 
 html, body {
   height: 100%;
+  
 }
 
 a {
-  color: #315659;
+ 
   text-decoration: none;
 }
 
