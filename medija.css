@@ -38,7 +38,7 @@ finaltest
 	
 
 .braonkocka {
-     height:50vh;
+   height:50vh;
 }
 .belakocka {
    height:50vh;
@@ -61,11 +61,11 @@ finaltest
 
 .belakocka {
     background-color: #fff;
-       height:50vh;
+height:50vh;
 }
 .braonkocka {
     background-color: #c6986b;
-      height:50vh;
+   height:50vh;
 	
 }
     #section1 {
@@ -94,7 +94,7 @@ margin: 46px 52px;
 
 .belakocka {
     background-color: #fff;
-    height:50vh;
+  height:50vh;
 }
 .braonkocka {
     background-color: #c6986b;
@@ -176,11 +176,11 @@ margin: 46px 52px;
 
 
 .braonkocka {
-   height:50vh;
+ height:50vh;
 }
 
 .belakocka {
-   height:50vh;
+height:50vh;
 }
 
 
@@ -208,7 +208,15 @@ width: 173px;
 @media all and (max-width: 1199px){
 .cd-nav .cd-primary-nav li {
     margin: 1em 0;
-}}
+}
+.braonkocka {
+ height:50vh;
+}
+
+.belakocka {
+ height:50vh;
+}
+}
 
 /*_______________________________________________1200_______________________________________________*/
 
@@ -238,9 +246,7 @@ width: 173px;
 /*_______________________________________________1025_______________________________________________*/
 
 @media all and (max-width: 1025px) {
-#section6{
-display:none!important;
-}
+
 .kutija1 {
     width: 430px;
     margin-top: -24% !important;
@@ -338,6 +344,7 @@ display:none!important;
     background-color: #c6986b;
     padding-top: 8%;
     padding-bottom: 8%;
+	height:auto;
 }
 	
 	
@@ -345,6 +352,7 @@ display:none!important;
     background-color: #fff;
     padding-top: 8%;
     padding-bottom: 8%;
+	height:auto;
 }
 	
 	.slika{
@@ -380,7 +388,10 @@ margin-top: 0%;
 }
 
 }
-
+@media all and (max-width: 1025px) {
+#section6{
+display:none!important;
+}}
 /*_______________________________________________991_______________________________________________*/
 
 @media all and (max-width: 991px) {
@@ -631,14 +642,14 @@ display:none!important;
 @media all and (max-width: 670px) {
 .lotonav {
     font-family: 'Lato', sans-serif;
-    font-size: 27px;
+    font-size: 25px;
     color: #fff;
     font-weight: 900;
     margin-top: 0%!important;
     margin: 0;
 }
 .adresa {
-    margin-top: 35%;
+    margin-top: 15%;
     margin-left: 0%;
 }}
 
